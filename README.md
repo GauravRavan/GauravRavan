@@ -5,7 +5,7 @@
 I'm Gaurav Ravan from India. I am Passionate Full stack developer looking for opportunity really enjoy learning languages and frameworks like React.js, Angular, CodeIgniter.
 
 ## Skiils and Experince
-[![java](https://skillicons.dev/icons?i=java,html,css,javascript,react,angular,php,codeIgniter,mysql,aws&perline=3)](https://skillicons.dev)
+[![java](https://skillicons.dev/icons?i=java,html,css,javascript,react,angular,php,codeigniter,mysql,aws&perline=3)](https://skillicons.dev)
 
 
 Skills: Java/HTML/CSS/JavaScript/React.js/Angular/PHP/Springboot/Codeigniter/MySql/AWS
