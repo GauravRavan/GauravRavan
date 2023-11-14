@@ -1,6 +1,6 @@
 ### Hi there 👋, Gaurav Ravan 
 #### FullStack Developer
-![github banner]https://github.com/GauravRavan/Codeigniter-Crudapp/assets/118911175/3db3adf1-af04-4407-9e1d-d0ab58dbedc8
+(https://media.licdn.com/dms/image/D4D16AQFa6aQquN4x1Q/profile-displaybackgroundimage-shrink_350_1400/0/1699947172654?e=1705536000&v=beta&t=Y7YpbtMcaWmi2zcXi7_IiWDwfRUYxgSL3XQWWxRGT5w)
 
 I'm Gaurav Ravan from India. I am Passionate Full stack developer looking for opportunity really enjoy learning languages and frameworks like React.js, Angular, CodeIgniter.
 
