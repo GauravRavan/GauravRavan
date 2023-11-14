@@ -6,7 +6,6 @@ I'm Gaurav Ravan from India. I am Passionate Full stack developer looking for op
 
 ## Skiils and Experince
 [![java](https://skillicons.dev/icons?i=java,html,css,javascript,react,angular,ajax,php,mysql,aws,vscode&perline=3)](https://skillicons.dev)
-(https://th.bing.com/th?id=ODLS.6d39de7b-3936-4b6b-b0b8-ffc677a3ce72&w=32&h=32&qlt=92&pcl=fffffa&o=6&pid=1.2)
 
 Skills: Java/HTML/CSS/JavaScript/React.js/Angular/PHP/Springboot/Codeigniter/MySql/AWS
 
